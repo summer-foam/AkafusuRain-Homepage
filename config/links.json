@@ -1,0 +1,30 @@
+{
+   "headLink": [
+      {
+         "icon": "book",
+         "name": "博客",
+         "link": "https://blog.exusiai.space/"
+      },
+      {
+         "icon": "info_outline",
+         "name": "关于",
+         "link": "https://my.exusiai.space"
+      }
+
+   ],
+
+   "extLink": [
+      {
+         "icon": "\ue90d",
+         "link": "https://twitter.com/exusiai_space"
+      },
+      {
+         "icon": "\ue918",
+         "link": "mailto:torrentailrain@exusiai.space"
+      },
+      {
+         "icon": "\ue712",
+         "link": "https://github.com/summerfoam"
+      }
+   ]
+}
