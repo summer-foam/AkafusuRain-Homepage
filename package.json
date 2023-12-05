@@ -11,6 +11,8 @@
       "@vue/cli": "^5.0.8",
       "autoprefixer": "^10.4.16",
       "core-js": "^3.33.1",
+      "easy-typer-js": "^2.1.0",
+      "essential": "^0.0.1",
       "mdui": "^1.0.2",
       "postcss": "^8.4.31",
       "vue": "^3.3.7"
@@ -24,7 +26,7 @@
       "@vue/cli-plugin-eslint": "~5.0.0",
       "@vue/cli-service": "~5.0.0",
       "compression-webpack-plugin": "^10.0.0",
-      "eslint": "^8.52.0",
+      "eslint": "^8.55.0",
       "eslint-plugin-vue": "^9.18.1",
       "less": "^4.2.0",
       "less-loader": "^11.1.3",
