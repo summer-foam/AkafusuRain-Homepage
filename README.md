@@ -18,7 +18,6 @@ npm install yarn -g
 4. 安装依赖库
 ```shell
 yarn add @vue/cli -g
-cd /path/to/crash-homepage
 yarn set version berry
 yarn install
 ```
