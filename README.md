@@ -33,4 +33,4 @@ yarn build
 ```
 8. 在 `/dist` 中查收打包好的页面
 ```
-Based on https://github.com/crrashh1542/crash-homepage
+
